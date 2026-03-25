@@ -1,4 +1,8 @@
-# Algorithm Study: Multi-Objective Optimization for Agricultural Planning
+## 🚀 Future Work
+
+- Integration of NSGA-II with uncertainty modeling techniques  
+- Implementation of the algorithm using real agricultural datasets  
+- Performance evaluation using different parameter settings# Algorithm Study: Multi-Objective Optimization for Agricultural Planning
 
 ## 📌 Overview
 Agricultural resource planning involves solving complex decision-making problems with multiple conflicting objectives such as maximizing crop yield while minimizing water usage and environmental impact. Traditional optimization techniques are insufficient for such problems due to their inability to handle non-linearity and multiple objectives simultaneously.
